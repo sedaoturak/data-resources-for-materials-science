@@ -1,5 +1,5 @@
 ## The Collection of Database and Dataset Resources in Materials Science
-This collection includes the list of online and offline resources of physical, chemical, mechanical, crystallographic and all other properties of materials.
+This collection includes the list of online and offline resources of physical, chemical, mechanical and all other properties of materials.
 
 Helping the students or enthusiasts who seek necessary data to practice machine learning techniques is the main motivation of this collection. It is also expected to assist the researchers in the material informatics field.
 
@@ -15,7 +15,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [NIST Materials Data Curation System (Part of MGI)](https://phasedata.nist.gov/) | Phase transformation temperatures (e.g. melting, solidus, solvus), lattice parameters, thermal expansion, elastic constants, and diffusion coefficients and compositions profiles |
 | [NIST Materials Data Repository (Part of MGI)](https://materialsdata.nist.gov/) | Data of different materials shared by researchers |
 | [MDR NIMS Materials Data Repository)](https://mdr.nims.go.jp/) | Datasets, publications, collections related to all material classes |
-| [The NIMS Materials Database (MatNavi))](https://mits.nims.go.jp/en/) | Polymers, inorganic material, metallic material and computational electronic structure |
+| [The NIMS Materials Database (MatNavi)](https://mits.nims.go.jp/en/) | Polymers, inorganic material, metallic material and computational electronic structure |
 | [The Materials Data Facility (MDF)](https://materialsdatafacility.org/) | Published data of different materials shared by researchers |
 | [The Joint Automated Repository for Various Integrated Simulations (JARVIS)](https://jarvis.nist.gov/) | Materials data for classical force-field, density functional theory and machine learning calculations |
 | [Materials Project](https://materialsproject.org/) | Inorganic compounds, nanoporous materials, elastic tensors, piezoelectric tensors, electrode materials |
