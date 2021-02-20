@@ -5,7 +5,7 @@ Helping the students or enthusiasts who seek necessary data to practice machine 
 
 In the first three sections below, you can find the list of databases and dataset-sharing platforms accessible publicly and the information of the books/handbooks including materials data.
 
-Additionally, in the last section, there are couple of toy datasets shared by researches for education purposes of machine learning techniques in materials science.
+Additionally, in the last section, there are couple of toy datasets shared by researchers for educational purposes of machine learning techniques in materials science.
 
 ### Databases in Materials Science
 
