@@ -37,6 +37,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Materials Commons](https://materialscommons.org/) | Published data of several materials |
 | [Crystallography Open Database (COD)](http://www.crystallography.net/cod/) | Open-access collection of crystal structures of organic, inorganic, metal-organics compounds and minerals, excluding biopolymers |
 | [Organic Materials Database (OMDB)](https://omdb.mathub.io/) | Open-access electronic structure database for 3-dimensional organic crystals |
+| [Polymer Genome](https://www.polymergenome.org/) | Data of polymer building blocks and platform for property prediction of polymeric materials |
 
 
 ### Datasets in Materials Science
