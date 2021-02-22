@@ -39,6 +39,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Organic Materials Database (OMDB)](https://omdb.mathub.io/) | Open-access electronic structure database for 3-dimensional organic crystals |
 | [Polymer Genome](https://www.polymergenome.org/) | Data of polymer building blocks and platform for property prediction of polymeric materials |
 | [DoITPoMS Micrograph Library](https://www.doitpoms.ac.uk/miclib/index.php) | Data of several materials' micrographs |
+| [Python for Glass Genomics (PyGGi)](https://pyggi.iitd.ac.in/) | Database of glass properties and platform for property prediction and optimization of glass materials |
 
 
 ### Datasets in Materials Science
