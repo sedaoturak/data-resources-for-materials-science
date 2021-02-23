@@ -14,7 +14,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [NIST Materials Genome Initiative (MGI)](https://www.nist.gov/mgi) | Several databases for different material classes |
 | [NIST Materials Data Curation System (Part of MGI)](https://phasedata.nist.gov/) | Phase transformation temperatures (e.g. melting, solidus, solvus), lattice parameters, thermal expansion, elastic constants, and diffusion coefficients and compositions profiles |
 | [NIST Materials Data Repository (Part of MGI)](https://materialsdata.nist.gov/) | Data of different materials shared by researchers |
-| [MDR NIMS Materials Data Repository)](https://mdr.nims.go.jp/) | Datasets, publications, collections related to all material classes |
+| [MDR NIMS Materials Data Repository](https://mdr.nims.go.jp/) | Datasets, publications, collections related to all material classes |
 | [The NIMS Materials Database (MatNavi)](https://mits.nims.go.jp/en/) | Polymers, inorganic material, metallic material and computational electronic structure |
 | [The Materials Data Facility (MDF)](https://materialsdatafacility.org/) | Published data of different materials shared by researchers |
 | [The Joint Automated Repository for Various Integrated Simulations (JARVIS)](https://jarvis.nist.gov/) | Materials data for classical force-field, density functional theory and machine learning calculations |
@@ -40,6 +40,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Polymer Genome](https://www.polymergenome.org/) | Data of polymer building blocks and platform for property prediction of polymeric materials |
 | [DoITPoMS Micrograph Library](https://www.doitpoms.ac.uk/miclib/index.php) | Data of several materials' micrographs |
 | [Python for Glass Genomics (PyGGi)](https://pyggi.iitd.ac.in/) | Database of glass properties and platform for property prediction and optimization of glass materials |
+| [The Engineering Toolbox](https://www.engineeringtoolbox.com/material-properties-t_24.html) | Data of material properties for gases, fluids and solids - densities, specific heats, viscosities and more |
 
 
 ### Datasets in Materials Science
