@@ -71,4 +71,5 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 ### Toy Datasets for Machine Learning Applications in Materials Science
  - [Machine Learning Materials Datasets](https://figshare.com/articles/dataset/MAST-ML_Education_Datasets/7017254)
  - [JARVIS Materials Design – Tools, Notebooks](https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks)
+ - [Machine Learning Lab Module](https://nanohub.org/tools/intromllab)
 
