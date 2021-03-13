@@ -41,6 +41,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [DoITPoMS Micrograph Library](https://www.doitpoms.ac.uk/miclib/index.php) | Data of several materials' micrographs |
 | [Python for Glass Genomics (PyGGi)](https://pyggi.iitd.ac.in/) | Database of glass properties and platform for property prediction and optimization of glass materials |
 | [The Engineering Toolbox](https://www.engineeringtoolbox.com/material-properties-t_24.html) | Data of material properties for gases, fluids and solids - densities, specific heats, viscosities and more |
+| [nanoHUB](https://nanohub.org/publications/datasets) | Published databases of several materials |
 
 
 ### Datasets in Materials Science
@@ -54,6 +55,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Materials Cloud](https://www.materialscloud.org/) | Curated research data sets |
 | [Materials Commons](https://materialscommons.org/) | Datasets of several materials |
 | [Ductile Cast Iron Project](https://www.ductilecastironproject.com/) | Dataset of fatigue, mechanical, corrosion and thermal properties and microstructures of ductile cast iron from over 40 scientific papers |
+| [nanoHUB](https://nanohub.org/publications/datasets) | Published datasets of several materials |
 
 
 ### Books/Handbooks for Materials Data
