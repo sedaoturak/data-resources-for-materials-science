@@ -42,6 +42,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Python for Glass Genomics (PyGGi)](https://pyggi.iitd.ac.in/) | Database of glass properties and platform for property prediction and optimization of glass materials |
 | [The Engineering Toolbox](https://www.engineeringtoolbox.com/material-properties-t_24.html) | Data of material properties for gases, fluids and solids - densities, specific heats, viscosities and more |
 | [nanoHUB](https://nanohub.org/publications/datasets) | Published databases of several materials |
+| [NanoMine](https://github.com/Duke-MatSci/nanomine) | NanoMine Nanocomposites Data Resource |
 
 
 ### Datasets in Materials Science
