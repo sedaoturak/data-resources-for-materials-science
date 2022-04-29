@@ -19,7 +19,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [The Materials Data Facility (MDF)](https://materialsdatafacility.org/) | Published data of different materials shared by researchers |
 | [The Joint Automated Repository for Various Integrated Simulations (JARVIS)](https://jarvis.nist.gov/) | Materials data for classical force-field, density functional theory and machine learning calculations |
 | [Materials Project](https://materialsproject.org/) | Inorganic compounds, nanoporous materials, elastic tensors, piezoelectric tensors, electrode materials |
-| [Pauling File](https://paulingfile.com/) | Phase diagrams, crystal structures,  physical properties of inorganic compounds |
+| [Pauling File](https://paulingfile.com/) and [MPDS](https://mpds.io) | Linked phase diagrams + crystal structures + physical properties of all experimentally known inorganic compounds |
 | [NIST Alloy Data](https://trc.nist.gov/metals_data/) | Thermophysical property data with a focus on unary, binary, and ternary metal systems |
 | [NIST Structural Ceramics Database (SCD) Database](https://srdata.nist.gov/CeramicDataPortal/scd) | Published data of structural ceramics |
 | [Polymer Property Predictor and Database](https://pppdb.uchicago.edu/) | Flory-Huggins Chi (χ) Database, Glass Transition Temperature Database |
