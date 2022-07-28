@@ -75,4 +75,5 @@ Additionally, in the last section, there are couple of toy datasets shared by re
  - [Machine Learning Materials Datasets](https://figshare.com/articles/dataset/MAST-ML_Education_Datasets/7017254)
  - [JARVIS Materials Design – Tools, Notebooks](https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks)
  - [Machine Learning Lab Module](https://nanohub.org/tools/intromllab)
+ - [REMI: REsource for Materials Informatics](https://pages.nist.gov/remi/)
 
