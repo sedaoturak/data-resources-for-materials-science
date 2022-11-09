@@ -57,6 +57,8 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Materials Commons](https://materialscommons.org/) | Datasets of several materials |
 | [Ductile Cast Iron Project](https://www.ductilecastironproject.com/) | Dataset of fatigue, mechanical, corrosion and thermal properties and microstructures of ductile cast iron from over 40 scientific papers |
 | [nanoHUB](https://nanohub.org/publications/datasets) | Published datasets of several materials |
+| [CHiMAD NIST (TDDFT)](https://acdc.alcf.anl.gov/mdf/detail/kononov_firstprinciples_simulation_graphene_v1.1/) | TDDFT simulations of light-ion irradiated graphene performed with Qbox/Qb@ll |
+| [Mechanical-MNIST](https://github.com/elejeune11/Mechanical-MNIST) | Mechanical-MNIST is a benchmark dataset for mechanical meta-models |
 
 
 ### Books/Handbooks for Materials Data
