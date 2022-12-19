@@ -16,6 +16,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [NIST Materials Data Repository (Part of MGI)](https://materialsdata.nist.gov/) | Data of different materials shared by researchers |
 | [MDR NIMS Materials Data Repository](https://mdr.nims.go.jp/) | Datasets, publications, collections related to all material classes |
 | [The NIMS Materials Database (MatNavi)](https://mits.nims.go.jp/en/) | Polymers, inorganic material, metallic material and computational electronic structure |
+| [The Novel Materials Discovery (NOMAD) Laboratory](https://nomad-lab.eu/index.php?page=repo-arch) | Input and output files from more than 100 million high-quality calculations. It also includes [notebooks](https://nomad-lab.eu/aitoolkit) for several materials informatics problems with experinece levels from beginner to advanced. |
 | [The Materials Data Facility (MDF)](https://materialsdatafacility.org/) | Published data of different materials shared by researchers |
 | [The Joint Automated Repository for Various Integrated Simulations (JARVIS)](https://jarvis.nist.gov/) | Materials data for classical force-field, density functional theory and machine learning calculations |
 | [Materials Project](https://materialsproject.org/) | Inorganic compounds, nanoporous materials, elastic tensors, piezoelectric tensors, electrode materials |
@@ -27,7 +28,6 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [NIST Self-Diffusion Data](https://www.ctcms.nist.gov/~gkl/selfdiffusion.html) | Self and impurity diffusion coefficients; reference collection of pre-exponential factors and activation energies for Arrhenius type of equations |
 | [Open Quantum Materials Database (OQMD)](http://oqmd.org/) | Database of DFT calculated thermodynamic and structural properties of 815,654 materials |
 | [Automatic Flow for Materials Discovery (AFLOW)](http://www.aflowlib.org/) | Database of 3,466,057 material compounds with over 679,347,172 calculated properties |
-| [The Novel Materials Discovery (NOMAD) Laboratory](https://nomad-lab.eu/index.php?page=repo-arch) | Input and output files from more than 100 million high-quality calculations |
 | [NRELMatDB](https://materials.nrel.gov/) | DFT (GGA+U) relaxed crystal structures, thermochemical properties, i.e., enthalpies of formation of compounds, the stability ranges in terms of chemical potentials, and enthalpies of decomposition reactions quasiparticle energy calculations in the GW electronic structures |
 | [High Throughput Experimental Materials Database (HTEM DB)](https://htem.nrel.gov/) | Composition (37093), structure (47213), optical (26577), and electrical (12849) properties of thin films synthesized using combinatorial methods |
 | [Matmatch](https://matmatch.com/) | Data of over 31000 materials |
