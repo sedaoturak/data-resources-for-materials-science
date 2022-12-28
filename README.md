@@ -44,6 +44,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [nanoHUB](https://nanohub.org/publications/datasets) | Published databases of several materials |
 | [NanoMine](https://github.com/Duke-MatSci/nanomine) | NanoMine Nanocomposites Data Resource |
 | [Topological Quantum Chemistry](https://www.topologicalquantumchemistry.com/#/) | Topological Materials Database |
+| [SciGlass](https://github.com/epam/SciGlass) | Glass property database with more than 420 thousand glass compositions |
 
 ### Datasets in Materials Science
 
