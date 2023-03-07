@@ -45,6 +45,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [NanoMine](https://github.com/Duke-MatSci/nanomine) | NanoMine Nanocomposites Data Resource |
 | [Topological Quantum Chemistry](https://www.topologicalquantumchemistry.com/#/) | Topological Materials Database |
 | [SciGlass](https://github.com/epam/SciGlass) | Glass property database with more than 420 thousand glass compositions |
+| [ORNL_AISD-Ex](https://www.osti.gov/biblio/1907919) | Quantum chemical prediction of UV/Vis absorption spectra for over 10 million organic molecules |
 
 ### Datasets in Materials Science
 
