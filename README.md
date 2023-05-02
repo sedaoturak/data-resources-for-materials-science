@@ -48,6 +48,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [ORNL_AISD-Ex](https://www.osti.gov/biblio/1907919) | Quantum chemical prediction of UV/Vis absorption spectra for over 10 million organic molecules |
 | [The Perovskite Database Project](https://www.perovskitedatabase.com/) |Data collected from 16000 perovskite papers published until the end of February 2020 |
 | [Polymer Scholar](https://polymerscholar.org/) |Search engine for polymer properties, powered by a large language model querying the journal abstracts |
+| [Computational Materials Repository (CMR)](https://cmr.fysik.dtu.dk/index.html) |Several databases and tutorials based on DFT-calculated material properties|
 
 ### Datasets in Materials Science
 
