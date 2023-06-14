@@ -49,6 +49,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [The Perovskite Database Project](https://www.perovskitedatabase.com/) |Data collected from 16000 perovskite papers published until the end of February 2020 |
 | [Polymer Scholar](https://polymerscholar.org/) |Search engine for polymer properties, powered by a large language model querying the journal abstracts |
 | [Computational Materials Repository (CMR)](https://cmr.fysik.dtu.dk/index.html) |Several databases and tutorials based on DFT-calculated material properties|
+| [Fatigue Database of AM Alloys2022](https://figshare.com/articles/dataset/Fatigue_Database_of_Additively_Manufactured_Alloys/22337629) | Database of fatigue properties of additively manufactured alloys obtained by natural language model from the literature |
 
 ### Datasets in Materials Science
 
@@ -65,7 +66,6 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [CHiMAD NIST (TDDFT)](https://acdc.alcf.anl.gov/mdf/detail/kononov_firstprinciples_simulation_graphene_v1.1/) | TDDFT simulations of light-ion irradiated graphene performed with Qbox/Qb@ll |
 | [Mechanical-MNIST](https://github.com/elejeune11/Mechanical-MNIST) | Mechanical-MNIST is a benchmark dataset for mechanical meta-models |
 | [Elastomeric Foam Materials](https://acdc.alcf.anl.gov/mdf/detail/foam_db_v1.1/) | A materials dataset for elastomeric foam impact mitigating materials |
-
 
 ### Books/Handbooks for Materials Data
 
