@@ -50,6 +50,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Polymer Scholar](https://polymerscholar.org/) |Search engine for polymer properties, powered by a large language model querying the journal abstracts |
 | [Computational Materials Repository (CMR)](https://cmr.fysik.dtu.dk/index.html) |Several databases and tutorials based on DFT-calculated material properties|
 | [Fatigue Database of AM Alloys2022](https://figshare.com/articles/dataset/Fatigue_Database_of_Additively_Manufactured_Alloys/22337629) | Database of fatigue properties of additively manufactured alloys obtained by natural language model from the literature |
+| [DigiMOF](https://figshare.com/collections/DigiMOF_A_Database_of_Metal_Organic_Framework_Synthesis_Information_Generated_via_Text_Mining/6652495) | Database of Metal–Organic Framework Synthesis Information Generated via Text Mining |
 
 ### Datasets in Materials Science
 
