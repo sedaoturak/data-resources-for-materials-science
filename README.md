@@ -53,6 +53,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [DigiMOF](https://figshare.com/collections/DigiMOF_A_Database_of_Metal_Organic_Framework_Synthesis_Information_Generated_via_Text_Mining/6652495) | Database of Metal–Organic Framework Synthesis Information Generated via Text Mining |
 | [Catalysis-Hub.org](https://www.catalysis-hub.org/) |Database of DFT-calculated surface reaction energies and barriers of catalysts with interactive activity maps, Pourbaix Diagrams and other apps|
 | [Springer Materials](https://materials.springer.com/) |Database of multiple material classes, property types, and applications, data visualization|
+| [OpenDAC](https://open-dac.github.io/) |40M DFT calculations from 170K DFT relaxations involving Metal Organic Frameworks (MOFs) with carbon dioxide and water adsorbates|
 
 ### Datasets in Materials Science
 
