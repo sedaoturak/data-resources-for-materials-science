@@ -70,6 +70,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [CHiMAD NIST (TDDFT)](https://acdc.alcf.anl.gov/mdf/detail/kononov_firstprinciples_simulation_graphene_v1.1/) | TDDFT simulations of light-ion irradiated graphene performed with Qbox/Qb@ll |
 | [Mechanical-MNIST](https://github.com/elejeune11/Mechanical-MNIST) | Mechanical-MNIST is a benchmark dataset for mechanical meta-models |
 | [Elastomeric Foam Materials](https://acdc.alcf.anl.gov/mdf/detail/foam_db_v1.1/) | A materials dataset for elastomeric foam impact mitigating materials |
+|[Polyinfo](https://polymer.nims.go.jp/) |Polymer Database "PoLyInfo" systematically provides various data required for polymeric material design.|
 
 ### Books/Handbooks for Materials Data
 
