@@ -55,6 +55,8 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Springer Materials](https://materials.springer.com/) |Database of multiple material classes, property types, and applications, data visualization|
 | [OpenDAC](https://open-dac.github.io/) |40M DFT calculations from 170K DFT relaxations involving Metal Organic Frameworks (MOFs) with carbon dioxide and water adsorbates|
 | [BEAST DB](https://beastdb.nrel.gov/) |>24k of electrocatalysis calculations and visualizations of properties that help rationalize observed behavior and design more effective catalysts|
+| [COD_HEM](https://codhem.cecas.clemson.edu/login) |Consolidated Database of High Entropy Materials (Paper and explanations are [here](https://www.sciencedirect.com/science/article/abs/pii/S0927025624008097))|
+
 ### Datasets in Materials Science
 
 | Resource Name | Description |
