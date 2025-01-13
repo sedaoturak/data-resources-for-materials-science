@@ -56,6 +56,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [OpenDAC](https://open-dac.github.io/) |40M DFT calculations from 170K DFT relaxations involving Metal Organic Frameworks (MOFs) with carbon dioxide and water adsorbates|
 | [BEAST DB](https://beastdb.nrel.gov/) |>24k of electrocatalysis calculations and visualizations of properties that help rationalize observed behavior and design more effective catalysts|
 | [COD_HEM](https://codhem.cecas.clemson.edu/login) |Consolidated Database of High Entropy Materials (Paper and explanations are [here](https://www.sciencedirect.com/science/article/abs/pii/S0927025624008097))|
+| [Alexandria Databases](https://alexandria.icams.rub.de) |Geometries relaxed by DFT with PBE and PBEsol functionals and their trajectories.|
 
 ### Datasets in Materials Science
 
@@ -73,6 +74,8 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Mechanical-MNIST](https://github.com/elejeune11/Mechanical-MNIST) | Mechanical-MNIST is a benchmark dataset for mechanical meta-models |
 | [Elastomeric Foam Materials](https://acdc.alcf.anl.gov/mdf/detail/foam_db_v1.1/) | A materials dataset for elastomeric foam impact mitigating materials |
 | [Polyinfo](https://polymer.nims.go.jp/) |Polymer Database "PoLyInfo" systematically provides various data required for polymeric material design.|
+| [GNoME](https://github.com/google-deepmind/materials_discovery?tab=readme-ov-file#dataset) |Compositions and total energies calculated by DFT with the r²SCAN functional from Google DeepMind.|
+| [OMat24](https://fair-chem.github.io/core/datasets/omat24.html#file-contents-and-downloads) |Total energy, force and stress calculations of non-relaxed structures and thier trajectories.|
 
 ### Books/Handbooks for Materials Data
 
