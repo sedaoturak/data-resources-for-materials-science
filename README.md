@@ -68,6 +68,10 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Mendeley Data](https://data.mendeley.com/) | Scientific research repository |
 | [Materials Cloud](https://www.materialscloud.org/) | Curated research data sets |
 | [Materials Commons](https://materialscommons.org/) | Datasets of several materials |
+| [OMol25 (The Open Molecules 2025)](https://huggingface.co/facebook/OMol25) | >101M DFT calculations of biomolecules, metal complexes, electrolytes, and community datasets, generated at the ω B97M-V/def2-TZVPD level of theory |
+| [OMat24](https://fair-chem.github.io/inorganic_materials/datasets/omat24.html) |Total energy, force and stress calculations of non-relaxed structures and their trajectories.|
+| [OCx24](https://fair-chem.github.io/catalysts/datasets/ocx24.html) |X-ray fluorescence (XRF), X-ray diffraction (XRD), and electrochemical testing results of catalyst materials.|
+| [ODAC23](https://fair-chem.github.io/dac/datasets/odac.html) |single-point DFT calculations on >8,000 MOFs, including a total of >176,000 adsorption energies with CO~2~ and/or H~2~O|
 | [Ductile Cast Iron Project](https://www.ductilecastironproject.com/) | Dataset of fatigue, mechanical, corrosion and thermal properties and microstructures of ductile cast iron from over 40 scientific papers |
 | [nanoHUB](https://nanohub.org/publications/datasets) | Published datasets of several materials |
 | [CHiMAD NIST (TDDFT)](https://acdc.alcf.anl.gov/mdf/detail/kononov_firstprinciples_simulation_graphene_v1.1/) | TDDFT simulations of light-ion irradiated graphene performed with Qbox/Qb@ll |
@@ -75,7 +79,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Elastomeric Foam Materials](https://acdc.alcf.anl.gov/mdf/detail/foam_db_v1.1/) | A materials dataset for elastomeric foam impact mitigating materials |
 | [Polyinfo](https://polymer.nims.go.jp/) |Polymer Database "PoLyInfo" systematically provides various data required for polymeric material design.|
 | [GNoME](https://github.com/google-deepmind/materials_discovery?tab=readme-ov-file#dataset) |Compositions and total energies calculated by DFT with the r²SCAN functional from Google DeepMind.|
-| [OMat24](https://fair-chem.github.io/core/datasets/omat24.html#file-contents-and-downloads) |Total energy, force and stress calculations of non-relaxed structures and thier trajectories.|
+
 
 ### Books/Handbooks for Materials Data
 
