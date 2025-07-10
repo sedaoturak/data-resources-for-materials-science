@@ -79,6 +79,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Elastomeric Foam Materials](https://acdc.alcf.anl.gov/mdf/detail/foam_db_v1.1/) | A materials dataset for elastomeric foam impact mitigating materials |
 | [Polyinfo](https://polymer.nims.go.jp/) |Polymer Database "PoLyInfo" systematically provides various data required for polymeric material design.|
 | [GNoME](https://github.com/google-deepmind/materials_discovery?tab=readme-ov-file#dataset) |Compositions and total energies calculated by DFT with the r²SCAN functional from Google DeepMind.|
+| [MP_ALOE](https://figshare.com/articles/dataset/MP-ALOE_An_r2SCAN_dataset_for_universal_machine_learning_interatomic_potentials/29452190) | An r2SCAN dataset for universal machine learning interatomic potentials|
 
 
 ### Books/Handbooks for Materials Data
