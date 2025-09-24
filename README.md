@@ -69,6 +69,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Materials Cloud](https://www.materialscloud.org/) | Curated research data sets |
 | [Materials Commons](https://materialscommons.org/) | Datasets of several materials |
 | [OMol25 (The Open Molecules 2025)](https://huggingface.co/facebook/OMol25) | >101M DFT calculations of biomolecules, metal complexes, electrolytes, and community datasets, generated at the ω B97M-V/def2-TZVPD level of theory |
+| [OC25 (The Open Catalyst 2025)](https://huggingface.co/facebook/OC25) | Dataset and Models for Solid-Liquid Interfaces |
 | [OMat24](https://fair-chem.github.io/inorganic_materials/datasets/omat24.html) |Total energy, force and stress calculations of non-relaxed structures and their trajectories.|
 | [OCx24](https://fair-chem.github.io/catalysts/datasets/ocx24.html) |X-ray fluorescence (XRF), X-ray diffraction (XRD), and electrochemical testing results of catalyst materials.|
 | [ODAC23](https://fair-chem.github.io/dac/datasets/odac.html) |single-point DFT calculations on >8,000 MOFs, including a total of >176,000 adsorption energies with CO~2~ and/or H~2~O|
