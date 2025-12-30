@@ -57,6 +57,8 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [BEAST DB](https://beastdb.nrel.gov/) |>24k of electrocatalysis calculations and visualizations of properties that help rationalize observed behavior and design more effective catalysts|
 | [COD_HEM](https://codhem.cecas.clemson.edu/login) |Consolidated Database of High Entropy Materials (Paper and explanations are [here](https://www.sciencedirect.com/science/article/abs/pii/S0927025624008097))|
 | [Alexandria Databases](https://alexandria.icams.rub.de) |Geometries relaxed by DFT with PBE and PBEsol functionals and their trajectories.|
+| [Stress-Strain Properties Database](https://github.com/gh-PankajKumar/chemdataextractorv2.3-stresseng) |A Database of Stress-Strain Properties Auto-generated from the Scientific Literature using ChemDataExtractor.|
+
 
 ### Datasets in Materials Science
 
