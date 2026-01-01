@@ -76,6 +76,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [OCx24](https://fair-chem.github.io/catalysts/datasets/ocx24.html) |X-ray fluorescence (XRF), X-ray diffraction (XRD), and electrochemical testing results of catalyst materials.|
 | [ODAC23](https://fair-chem.github.io/dac/datasets/odac.html) |single-point DFT calculations on >8,000 MOFs, including a total of >176,000 adsorption energies with CO~2~ and/or H~2~O|
 | [QCML](https://zenodo.org/records/14859804) |Quantum chemistry reference data from 33.5M DFT and 14.7B semi-empirical calculations|
+| [MatPES](https://matpes.ai/) | A Foundational Potential Energy Surface Dataset for Materials|
 | [Ductile Cast Iron Project](https://www.ductilecastironproject.com/) | Dataset of fatigue, mechanical, corrosion and thermal properties and microstructures of ductile cast iron from over 40 scientific papers |
 | [nanoHUB](https://nanohub.org/publications/datasets) | Published datasets of several materials |
 | [CHiMAD NIST (TDDFT)](https://acdc.alcf.anl.gov/mdf/detail/kononov_firstprinciples_simulation_graphene_v1.1/) | TDDFT simulations of light-ion irradiated graphene performed with Qbox/Qb@ll |
