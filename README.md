@@ -79,6 +79,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [QM9Star](https://doi.org/10.6084/m9.figshare.27002905) |2M DFT-computed Equilibrium Structures for Ions and Radicals with Atomic Information|
 | [Work function and cleavage energy dataset](https://zenodo.org/records/10703249) | Work function and cleavage energy calculation results of 58,332 surface configurations by DFT|
 | [MatPES](https://matpes.ai/) | A Foundational Potential Energy Surface Dataset for Materials|
+| [MatSyn25](https://huggingface.co/datasets/MatSynAI/MatSyn25) | a large-scale dataset of 2D material synthesis processes extracted from 85,160 research papers. The dataset contains 163,240 synthesis records covering graphene, MXenes, transition metal dichalcogenides, layered double hydroxides, and related materials |
 | [Ductile Cast Iron Project](https://www.ductilecastironproject.com/) | Dataset of fatigue, mechanical, corrosion and thermal properties and microstructures of ductile cast iron from over 40 scientific papers |
 | [nanoHUB](https://nanohub.org/publications/datasets) | Published datasets of several materials |
 | [CHiMAD NIST (TDDFT)](https://acdc.alcf.anl.gov/mdf/detail/kononov_firstprinciples_simulation_graphene_v1.1/) | TDDFT simulations of light-ion irradiated graphene performed with Qbox/Qb@ll |
