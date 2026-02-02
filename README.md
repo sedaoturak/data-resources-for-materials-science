@@ -58,6 +58,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [COD_HEM](https://codhem.cecas.clemson.edu/login) |Consolidated Database of High Entropy Materials (Paper and explanations are [here](https://www.sciencedirect.com/science/article/abs/pii/S0927025624008097))|
 | [Alexandria Databases](https://alexandria.icams.rub.de) |Geometries relaxed by DFT with PBE and PBEsol functionals and their trajectories.|
 | [Stress-Strain Properties Database](https://github.com/gh-PankajKumar/chemdataextractorv2.3-stresseng) |A Database of Stress-Strain Properties Auto-generated from the Scientific Literature using ChemDataExtractor.|
+| [ICEM Database](https://www.innomat.se/icem) |A thermodynamic database for hardmetals, describing the Co-Ti-W-C-N alloy system.|
 
 
 ### Datasets in Materials Science
