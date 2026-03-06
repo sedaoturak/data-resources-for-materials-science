@@ -71,6 +71,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Mendeley Data](https://data.mendeley.com/) | Scientific research repository |
 | [Materials Cloud](https://www.materialscloud.org/) | Curated research data sets |
 | [Materials Commons](https://materialscommons.org/) | Datasets of several materials |
+| [OPoly26](https://huggingface.co/facebook/OMol25#open-polymers-2026-opoly26-dataset) | >6.35M DFT calculations on up to 360 atom clusters derived from polymeric systems|
 | [OMol25 (The Open Molecules 2025)](https://huggingface.co/facebook/OMol25) | >101M DFT calculations of biomolecules, metal complexes, electrolytes, and community datasets, generated at the ω B97M-V/def2-TZVPD level of theory |
 | [OC25 (The Open Catalyst 2025)](https://huggingface.co/facebook/OC25) | Dataset and Models for Solid-Liquid Interfaces |
 | [OMat24](https://fair-chem.github.io/inorganic_materials/datasets/omat24.html) |Total energy, force and stress calculations of non-relaxed structures and their trajectories.|
