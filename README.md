@@ -84,6 +84,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [MAD-1.5](https://archive.materialscloud.org/records/18tke-tt476) | Highly curated dataset designed explicitly for training broadly applicable atomistic models across the periodic table at high levels of theory|
 | [MatSyn25](https://huggingface.co/datasets/MatSynAI/MatSyn25) | Large-scale dataset of 2D material synthesis processes extracted from 85,160 research papers. The dataset contains 163,240 synthesis records covering graphene, MXenes, transition metal dichalcogenides, layered double hydroxides, and related materials |
 | [MOFs_CO2N2O2_ML](https://github.com/hasancangulbalkan/MOFs_CO2N2O2_ML) | ~3.9M data points for all synthesized and hypothetical MOFs’ structural, chemical, and energetic features (1.9M), their gas adsorption properties (1.2M), and adsorption-based selectivities (0.8M) computed atdifferent conditions|
+| [sysTEm](https://github.com/tankylz/sysTEm_dataset) | A materials dataset for elastomeric foam impact mitigating materials |
 | [Ductile Cast Iron Project](https://www.ductilecastironproject.com/) | Dataset of fatigue, mechanical, corrosion and thermal properties and microstructures of ductile cast iron from over 40 scientific papers |
 | [nanoHUB](https://nanohub.org/publications/datasets) | Published datasets of several materials |
 | [CHiMAD NIST (TDDFT)](https://acdc.alcf.anl.gov/mdf/detail/kononov_firstprinciples_simulation_graphene_v1.1/) | TDDFT simulations of light-ion irradiated graphene performed with Qbox/Qb@ll |
