@@ -76,7 +76,8 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [OC25 (The Open Catalyst 2025)](https://huggingface.co/facebook/OC25) | Dataset and Models for Solid-Liquid Interfaces |
 | [OMat24](https://fair-chem.github.io/inorganic_materials/datasets/omat24.html) |Total energy, force and stress calculations of non-relaxed structures and their trajectories.|
 | [OCx24](https://fair-chem.github.io/catalysts/datasets/ocx24.html) |X-ray fluorescence (XRF), X-ray diffraction (XRD), and electrochemical testing results of catalyst materials.|
-| [ODAC23](https://fair-chem.github.io/dac/datasets/odac.html) |single-point DFT calculations on >8,000 MOFs, including a total of >176,000 adsorption energies with CO~2~ and/or H~2~O|
+| [ODAC23](https://fair-chem.github.io/dac/datasets/odac.html) |single-point DFT calculations on >8,000 MOFs, including a total of >176,000 adsorption energies with COsub>2</sub> and/or Hsub>2</sub>O|
+| [AQCat25](https://huggingface.co/datasets/SandboxAQ/aqcat25-dataset) |13.5M DFT calculation trajectories, encompassing approximately 5K materials and 47K intermediate-catalyst systems (including critical spin-polarized systems).|
 | [QCML](https://zenodo.org/records/14859804) |Quantum chemistry reference data from 33.5M DFT and 14.7B semi-empirical calculations|
 | [QM9Star](https://doi.org/10.6084/m9.figshare.27002905) |2M DFT-computed Equilibrium Structures for Ions and Radicals with Atomic Information|
 | [Work function and cleavage energy dataset](https://zenodo.org/records/10703249) | Work function and cleavage energy calculation results of 58,332 surface configurations by DFT|
