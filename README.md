@@ -83,6 +83,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Work function and cleavage energy dataset](https://zenodo.org/records/10703249) | Work function and cleavage energy calculation results of 58,332 surface configurations by DFT|
 | [MatPES](https://matpes.ai/) | A Foundational Potential Energy Surface Dataset for Materials|
 | [MAD-1.5](https://archive.materialscloud.org/records/18tke-tt476) | Highly curated dataset designed explicitly for training broadly applicable atomistic models across the periodic table at high levels of theory|
+| [MSR-ACC/TAE25](https://zenodo.org/records/17629321) | 73k accurate total atomization energies (TAE) of small molecules with up to 5 non-hydrogen elements up to argon, excluding only rare-gas atoms.|
 | [MatSyn25](https://huggingface.co/datasets/MatSynAI/MatSyn25) | Large-scale dataset of 2D material synthesis processes extracted from 85,160 research papers. The dataset contains 163,240 synthesis records covering graphene, MXenes, transition metal dichalcogenides, layered double hydroxides, and related materials |
 | [MOFs_CO2N2O2_ML](https://github.com/hasancangulbalkan/MOFs_CO2N2O2_ML) | ~3.9M data points for all synthesized and hypothetical MOFs’ structural, chemical, and energetic features (1.9M), their gas adsorption properties (1.2M), and adsorption-based selectivities (0.8M) computed atdifferent conditions|
 | [sysTEm](https://github.com/tankylz/sysTEm_dataset) | A materials dataset for elastomeric foam impact mitigating materials |
