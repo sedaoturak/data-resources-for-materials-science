@@ -37,6 +37,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [Materials Commons](https://materialscommons.org/) | Published data of several materials |
 | [Crystallography Open Database (COD)](http://www.crystallography.net/cod/) | Open-access collection of crystal structures of organic, inorganic, metal-organics compounds and minerals, excluding biopolymers |
 | [Organic Materials Database (OMDB)](https://omdb.mathub.io/) | Open-access electronic structure database for 3-dimensional organic crystals |
+| [Open Reaction Database (ORD)](https://open-reaction-database.org) | Infrastructure for structuring and sharing organic reaction data from benchtop reactions to automated high-throughput experiments and flow chemistry.|
 | [Polymer Genome](https://www.polymergenome.org/) | Data of polymer building blocks and platform for property prediction of polymeric materials |
 | [DoITPoMS Micrograph Library](https://www.doitpoms.ac.uk/miclib/index.php) | Data of several materials' micrographs |
 | [Python for Glass Genomics (PyGGi)](https://pyggi.iitd.ac.in/) | Database of glass properties and platform for property prediction and optimization of glass materials |
