@@ -100,6 +100,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [MP_ALOE](https://figshare.com/articles/dataset/MP-ALOE_An_r2SCAN_dataset_for_universal_machine_learning_interatomic_potentials/29452190) | An r2SCAN dataset for universal machine learning interatomic potentials |
 | [Peregrine](https://doi.ccs.ornl.gov/dataset/96b7da99-07e1-562d-88d5-d7e079acfef7) | In-situ monitoring and training dataset for laser powder bed fusion and binder jet printers |
 | [BOS-TMC Dataset](https://zenodo.org/records/19410245) | Structures and properties for the BOS-TMC dataset of 159k transition metal complexes in multiple charge and spin states. |
+| [Graph representations of dislocation networks](https://zenodo.org/records/24006153) | 627 three-dimensional discrete dislocation dynamics (DDD) simulations of FCC single crystals (Al) under uniaxial tension, run with the Karlsruhe DDD code. |
 
 
 ### Books/Handbooks for Materials Data
