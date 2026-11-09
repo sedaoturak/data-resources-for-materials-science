@@ -32,6 +32,7 @@ Additionally, in the last section, there are couple of toy datasets shared by re
 | [High Throughput Experimental Materials Database (HTEM DB)](https://htem.nrel.gov/) | Composition (37093), structure (47213), optical (26577), and electrical (12849) properties of thin films synthesized using combinatorial methods |
 | [Matmatch](https://matmatch.com/) | Data of over 31000 materials |
 | [MatWeb](http://www.matweb.com/) | Data of material properties including metals, ceramics, polymer and other engineering materials |
+| [Space Mushroom](https://spacemushroom.com/materials/) | Free open database of material profiles (metals, polymers, ceramics, glasses, energy materials); every value shown with its unit, test conditions and source. CC BY 4.0 |
 | [Materials Cloud](https://www.materialscloud.org/) | Data of several materials |
 | [Knowledgebase of Interatomic Models (OpenKIM)](https://openkim.org/) | Interatomic potential repository and an online framework for making molecular simulations |
 | [Materials Commons](https://materialscommons.org/) | Published data of several materials |
